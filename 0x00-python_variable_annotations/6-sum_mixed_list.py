@@ -1,4 +1,4 @@
-#!/usr/bin/env/python3
+#!/usr/bin/env python3
 """Module that takes a list input_list of mixed integers and floats"""
 from typing import List, Union
 
